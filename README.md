@@ -4,32 +4,6 @@ For students to sell unwanted items - such as furniture or textbooks- and buy or
 
 Our platform will easily allow sellers to post items they want to sell. Sellers are able to post pictures of their items, a title, a description, a price, and an email or phone number for contact information. Buyers will be browse through categories of items to find specific items they desire. Both buyers and sellers will require to login to make an account, so that the network of buyers and sellers is limited to those within the Calvin space.
 
-<h2 align="center">Relevant Documents</h2>
-<ul>
-<li>
-<a href="https://github.com/Cs262-BASSH/Project/blob/main/knightMarket_domainModel.png">Domain Model</a>
-</li>
-<li>
-<a href="https://github.com/Cs262-BASSH/Project/blob/main/UI%20Model.jpg">UI Model</a>
-</li>
-<li>
-<a href="https://github.com/Cs262-BASSH/Project/blob/main/deploymentDiagram.drawio.png">Deployment Diagram</a>
-</li> 
-</ul>
-
-<h2 align="center">Links to Other Repos:</h2>
-<ul>
-<li>
-<a href="https://github.com/Cs262-BASSH/Client">Client</a>
-</li>
-<li>
-<a href="https://github.com/Cs262-BASSH/Service">Service</a>
-</li>
-<li>
-<a href="https://github.com/Cs262-BASSH">Organization</a>
-</li>
-</ul>
-
 <h2 align="center"> Team Members-BASSH </h2>
 <ul>
  <li>Benedicto Elpidius</li>
