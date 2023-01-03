@@ -20,7 +20,7 @@ Our platform will easily allow sellers to post items they want to sell. Sellers 
 ![F78B7191-C148-451F-A1C7-703A5D86085A](https://user-images.githubusercontent.com/90052277/210356038-4cffd1f8-48d9-4310-b8a4-58e7dd3103d1.png)
 ![4D460A98-5DDF-464F-9FB8-E723F626DCA9](https://user-images.githubusercontent.com/90052277/210356055-f0494366-8db5-455f-8f9f-fe461695b1ed.png)
 ![A11805C0-419E-4297-A152-00DF9652E039](https://user-images.githubusercontent.com/90052277/210356221-123e6df9-3dd9-41c5-8665-bf0817f1a110.png)
-
+ 
 ![377D0601-775C-46FE-BF02-8E3A48AB84D0](https://user-images.githubusercontent.com/90052277/210356333-4611566c-0c4e-495a-a12b-17330870880d.png)
 ![04D73EE5-1FEC-4509-9A5B-EF3FEF6DA875](https://user-images.githubusercontent.com/90052277/210356346-7e8df974-3fbe-46a5-ad22-296406577a39.png)
 ![3BE50C81-5319-4E5A-ABE8-5B7AF1D830D2](https://user-images.githubusercontent.com/90052277/210356365-c83b8391-a821-4118-869b-1870702e8be1.png)
