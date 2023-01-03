@@ -4,7 +4,7 @@ For students to sell unwanted items - such as furniture or textbooks- and buy or
 
 Our platform will easily allow sellers to post items they want to sell. Sellers are able to post pictures of their items, a title, a description, a price, and an email or phone number for contact information. Buyers will be browse through categories of items to find specific items they desire. Both buyers and sellers will require to login to make an account, so that the network of buyers and sellers is limited to those within the Calvin space.
 
-<h2 align="center"> Team Members-BASSH </h2>
+<h1 align="center"> Team Members-BASSH </h1>
 <ul>
  <li>Benedicto Elpidius</li>
  <li>Antonio Sepulveda</li>
@@ -12,3 +12,5 @@ Our platform will easily allow sellers to post items they want to sell. Sellers 
  <li>Oghenesuvwe Ogedegbe</li>
  <li>Seongrim Choi</li>
 </ul>
+
+<h1 align="center"> Pictures </h1>
