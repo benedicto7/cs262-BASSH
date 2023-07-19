@@ -14,7 +14,7 @@ Our platform will easily allow sellers to post items they want to sell. Sellers 
 </ul>
 
 <h1 align="center"> Pictures </h1>
-(https://user-images.githubusercontent.com/90052277/210355969-1ea366cb-9ffe-400b-b64f-3fd9681ee475.png)
+https://user-images.githubusercontent.com/90052277/210355969-1ea366cb-9ffe-400b-b64f-3fd9681ee475.png
 ![C9D7F900-DFE9-4190-AC51-D8ABAAF2B408](https://user-images.githubusercontent.com/90052277/210355998-206fb78d-6132-4130-84a5-4576a85b09f3.png)
 ![49CEA849-2C2D-4C31-8D6C-8A8C87B49676](https://user-images.githubusercontent.com/90052277/210356025-42343a58-481f-4fae-bd50-1efd6242d19c.png)
 ![F78B7191-C148-451F-A1C7-703A5D86085A](https://user-images.githubusercontent.com/90052277/210356038-4cffd1f8-48d9-4310-b8a4-58e7dd3103d1.png)
