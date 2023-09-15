@@ -13,7 +13,7 @@ Our platform will easily allow sellers to post items they want to sell. Sellers 
  <li>Seongrim Choi</li>
 </ul>
 
-<h1 align="center"> Pictures </h1>
+<h1 align="center"> Pictures of App (SS) </h1>
 https://user-images.githubusercontent.com/90052277/210355969-1ea366cb-9ffe-400b-b64f-3fd9681ee475.png
 
 https://user-images.githubusercontent.com/90052277/210355998-206fb78d-6132-4130-84a5-4576a85b09f3.png
